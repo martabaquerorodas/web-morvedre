@@ -1,0 +1,10 @@
+th {
+    padding: 0.2em 0.8em;
+    border: 1px solid rgba(20, 50, 90, .25);
+    background: rgba(0, 102, 255, .25);
+    text-align: center;
+}
+
+td {
+    border: 1px solid rgba(20, 50, 90, .25);
+}

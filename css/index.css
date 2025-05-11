@@ -1,0 +1,24 @@
+/* genericos */
+h1 {
+    color: blue;
+}
+
+
+
+
+/* main */
+main {
+    padding: 20px;
+}
+
+main p {
+    text-align: justify;
+}
+
+.blue {
+    color: blue;
+}
+
+h1 {
+    color: black;
+}
